@@ -1,0 +1,80 @@
+@media(min-width: 300px){
+			.contayner{
+				width: 300px;
+			}
+			#grid{
+				grid-template-columns: 150px 400px 250px;
+			}
+		}
+		@media(max-width: 400px)
+			
+		div{
+			text-align: right;	
+			text-size: 10px;
+			font-family: Calibri;
+		}
+		hr{
+			border: none;
+    			background-color: yellow;
+   			color: grey; 
+    			height: 2px;
+		}
+		form{
+			text-align: center;
+		table{
+			text-align: center;
+		}
+		thead{
+			text-align: center;
+			font-family: Calibri;
+			font-size: 70px;
+			font-weight: bold;
+		}
+		tbody{
+			text-align: right;
+			font-family: Arial, sans-serif;
+			font-size: 12px;
+		}
+		.button-search{
+			width: auto;
+			height: 25px;
+			font-size: 12px;
+			text-align: center;
+			font-weight: bold;
+		}
+		#textplace{
+			width: auto;
+			height:25px;
+			border-radius: 10px;
+			text-align: left;
+			text-indent: 12px;
+			font-size: 14px;
+		}
+		#text-input{
+			width: auto;
+			height: 15px;
+			border-radius: 2px;
+			text-align: left;
+			text-indent: 10px;
+			font-size: 16px;
+
+	
+		#grid{
+			position: relative;
+			z-index: 3;
+			display: grid;
+			grid-column-gap: 10px;
+			grid-row-gap: 10px;
+			grid-template-columns: 164px 40% 300px;
+			
+
+		.grid-input{
+			text-align: left;
+			font-size: 14px;
+			padding: 8px;
+						
+    
+		#head{
+	
+			display: grid;
+      }
